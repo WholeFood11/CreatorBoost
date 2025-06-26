@@ -5,7 +5,7 @@ import './index.css';
 
 createRoot(document.getElementById('root')!).render(
   console.log("HI");
-  // <StrictMode>
-  //   <App />
-  // </StrictMode>
+  <StrictMode>
+    <App />
+  </StrictMode>
 );
